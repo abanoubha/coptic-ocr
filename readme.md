@@ -4,7 +4,7 @@ Coptic is the final stage of ancient egyptian language.
 
 ## resources
 
-- [tessdata Coptic | GitHub](https://github.com/Shreeshrii/tessdata_coptic)
+- [tessdata Coptic - Shreeshrii | GitHub](https://github.com/Shreeshrii/tessdata_coptic)
 - [CopticOCR - KELLIA | GitHub](https://github.com/KELLIA/CopticOCR/tree/master)
 - [Noto Sans Coptic | Google Fonts](https://fonts.google.com/noto/specimen/Noto+Sans+Coptic)
 - [all models of languages officially supported/trained by Tesseract-OCR](https://tesseract-ocr.github.io/tessdoc/Data-Files.html)
